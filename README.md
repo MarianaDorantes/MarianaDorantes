@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarianaDorantes
+- 👋 Hi, I’m @MarianaDorantes, an evironmental consultant that studied Earth Sciences with specialization in Acuatic Sciences. 
 - 👀 I’m interested in environmental data analysis meaning that I enjoy working with marine, air emissions and biological data to find problems or visualize changes in time.
 - 🌱 I’m currently learning SQL and Python for data analysis.
 - 📫 How to reach me: please write to marianadg30@gmail.com or go to my LinkedIn https://www.linkedin.com/in/mariana-dorantes-galeana-b04196207/
